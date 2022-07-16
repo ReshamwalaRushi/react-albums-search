@@ -1,0 +1,9 @@
+
+.albums{
+    max-height: 400px;
+    overflow: auto;
+}
+
+.albums table{
+    max-height: 400px;
+}
